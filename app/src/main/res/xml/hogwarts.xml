@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Pablo Mateos García-->
+
+<hogwarts title="Hogwarts" author="Pablo">
+    <floor>
+        <room>
+            <right>1</right>
+            <description>Location 1(0)</description>
+            <name>Chamber of Secrets</name>
+            <item>sword</item>
+        </room>
+        <room>
+            <right>2</right>
+            <left>0</left>
+            <description>Location 2(1)</description>
+            <name>Dungeons</name>
+            <item>ball</item>
+        </room>
+        <room>
+            <right>3</right>
+            <left>1</left>
+            <description>Location 3(2)</description>
+            <name>Deathday Party Hall</name>
+            <item>key</item>
+        </room>
+        <room>
+            <right>4</right>
+            <left>2</left>
+            <description>Location 4(3)</description>
+            <name>Potions Classroom</name>
+            <item>blood</item>
+        </room>
+        <room>
+            <right>5</right>
+            <left>3</left>
+            <description>Location 5(4)</description>
+            <name>Head of Slytherin's Office</name>
+            <item>sheets</item>
+        </room>
+        <room>
+            <right>6</right>
+            <left>4</left>
+            <description>Location 6(5)</description>
+            <name>Slytherin Common Room</name>
+            <item>snake</item>
+        </room>
+        <room>
+            <right>7</right>
+            <left>5</left>
+            <description>Location 7(6)</description>
+            <name>Basement</name>
+            <item>pacifier</item>
+        </room>
+        <room>
+            <right>8</right>
+            <left>6</left>
+            <description>Location 8(7)</description>
+            <name>Hufflepuff Common Room</name>
+            <item>badger</item>
+        </room>
+        <room>
+            <right>9</right>
+            <left>7</left>
+            <description>Location 9(8)</description>
+            <name>Kitchens</name>
+            <item>turkey</item>
+            <item>pot</item>
+        </room>
+        <room>
+            <left>8</left>
+            <description>Location 10(9)</description>
+            <name>Boathouse</name>
+            <item>frog</item>
+        </room>
+    </floor>
+    <floor>
+        <room>
+            <right>11</right>
+            <description>Location 11(10)</description>
+            <name>Viaduct</name>
+            <item>bed</item>
+        </room>
+        <room>
+            <right>12</right>
+            <left>10</left>
+            <description>Location 12(11)</description>
+            <name>The Quad</name>
+            <item>beer</item>
+        </room>
+        <room>
+            <right>13</right>
+            <left>11</left>
+            <down>1</down>
+            <description>Location 13(12)</description>
+            <name>Grand Staircase</name>
+            <item>bikini</item>
+        </room>
+        <room>
+            <right>14</right>
+            <left>12</left>
+            <description>Location 14(13)</description>
+            <name>Viaduct Entrance</name>
+            <item>broom</item>
+        </room>
+        <room>
+            <right>15</right>
+            <left>13</left>
+            <description>Location 15(14)</description>
+            <name>Classroom Eleven</name>
+            <item>bulb</item>
+        </room>
+        <room>
+            <right>16</right>
+            <left>14</left>
+            <description>Location 16(15)</description>
+            <name>Transfiguration Classroom</name>
+            <item>cabbage</item>
+        </room>
+        <room>
+            <right>17</right>
+            <left>15</left>
+            <description>Location 17(16)</description>
+            <name>Transfiguration department</name>
+            <item>cap</item>
+        </room>
+        <room>
+            <right>18</right>
+            <left>16</left>
+            <description>Location 18(17)</description>
+            <name>Transfiguration Courtyard</name>
+            <item>car</item>
+        </room>
+        <room>
+            <right>19</right>
+            <left>17</left>
+            <description>Location 19(18)</description>
+            <name>Caretaker's Office</name>
+            <item>chair</item>
+        </room>
+        <room>
+            <right>20</right>
+            <left>18</left>
+            <description>Location 20(19)</description>
+            <name>Staffroom</name>
+            <item>wardrobe</item>
+        </room>
+        <room>
+            <right>21</right>
+            <left>19</left>
+            <down>6</down>
+            <description>Location 21(20)</description>
+            <name>Great Hall</name>
+            <item>cat</item>
+            <item>chess</item>
+        </room>
+        <room>
+            <right>22</right>
+            <left>20</left>
+            <description>Location 22(21)</description>
+            <name>Viaduct Courtyard</name>
+            <item>chocolate</item>
+        </room>
+        <room>
+            <right>23</right>
+            <left>21</left>
+            <description>Location 22(22)</description>
+            <name>Chamber of Reception</name>
+            <item>clock</item>
+        </room>
+        <room>
+            <left>22</left>
+            <down>8</down>
+            <description>Location 24(23)</description>
+            <name>Entrance Hall</name>
+            <item>computer</item>
+        </room>
+    </floor>
+    <floor>
+        <room>
+            <right>25</right>
+            <down>11</down>
+            <description>Location 25(24)</description>
+            <name>The Quad Battlements</name>
+            <item>coat</item>
+        </room>
+        <room>
+            <right>26</right>
+            <left>24</left>
+            <description>Location 26(25)</description>
+            <name>Girl's Lavatory - Out of Order (Moaning Myrtle's Bathroom)</name>
+            <item>croissant</item>
+        </room>
+        <room>
+            <right>27</right>
+            <left>25</left>
+            <description>Location 27(26)</description>
+            <name>Girls' Lavatory</name>
+            <item>dice</item>
+        </room>
+        <room>
+            <right>28</right>
+            <left>26</left>
+            <description>Location 28(27)</description>
+            <name>Storeroom</name>
+            <item>doll</item>
+        </room>
+        <room>
+            <right>29</right>
+            <left>27</left>
+            <down>13</down>
+            <description>Location 29(28)</description>
+            <name>Tapestry Corridor</name>
+            <item>duck</item>
+        </room>
+        <room>
+            <right>30</right>
+            <left>28</left>
+            <down>12</down>
+            <description>Location 30(29)</description>
+            <name>Stone Bridge</name>
+            <item>fish</item>
+        </room>
+        <room>
+            <right>31</right>
+            <left>29</left>
+            <description>Location 31(30)</description>
+            <name>Gryffindor Head's Office</name>
+            <item>flower</item>
+        </room>
+        <room>
+            <right>32</right>
+            <left>30</left>
+            <description>Location 32(31)</description>
+            <name>Matron's Office</name>
+            <item>glasses</item>
+        </room>
+        <room>
+            <right>33</right>
+            <left>31</left>
+            <description>Location 33(32)</description>
+            <name>Hospital Wing</name>
+            <item>glove</item>
+        </room>
+        <room>
+            <right>34</right>
+            <left>32</left>
+            <description>Location 34(33)</description>
+            <name>Muggle Studies Classroom</name>
+            <item>hamster</item>
+        </room>
+        <room>
+            <right>35</right>
+            <left>33</left>
+            <description>Location 35(34)</description>
+            <name>History of Magic Classroom</name>
+            <item>pencil</item>
+        </room>
+        <room>
+            <left>34</left>
+            <description>Location 36(35)</description>
+            <name>Defence Against the Dark Arts Classroom</name>
+            <item>hat</item>
+        </room>
+    </floor>
+    <floor>
+        <room>
+            <right>37</right>
+            <down>28</down>
+            <description>Location 37(36)</description>
+            <name>Second Floor Corridor</name>
+            <item>horse</item>
+        </room>
+        <room>
+            <left>36</left>
+            <down>35</down>
+            <description>Location 38(37)</description>
+            <name>Defence Against the Dark Arts Professor's Office</name>
+            <item>magnifying</item>
+        </room>
+    </floor>
+    <floor>
+        <room>
+            <right>39</right>
+            <description>Location 39(38)</description>
+            <name>Armoury</name>
+            <item>motorbike</item>
+        </room>
+        <room>
+            <left>38</left>
+            <right>40</right>
+            <description>Location 40(39)</description>
+            <name>Charms Classroom</name>
+            <item>wand</item>
+        </room>
+        <room>
+            <left>39</left>
+            <right>41</right>
+            <down>36</down>
+            <description>Location 41(40)</description>
+            <name>Clock Tower Entrance</name>
+            <item>padlock</item>
+        </room>
+        <room>
+            <left>40</left>
+            <right>42</right>
+            <description>Location 42(41)</description>
+            <name>Library</name>
+            <item>picture</item>
+        </room>
+        <room>
+            <left>41</left>
+            <right>43</right>
+            <description>Location 43(42)</description>
+            <name>One-Eyed Witch Passage</name>
+            <item>plant</item>
+        </room>
+        <room>
+            <left>42</left>
+            <right>44</right>
+            <description>Location 44(43)</description>
+            <name>Trophy Room</name>
+            <item>pushpin</item>
+        </room>
+        <room>
+            <left>43</left>
+            <description>Location 45(44)</description>
+            <name>Third Floor Corridor</name>
+            <item>rabbit</item>
+        </room>
+    </floor>
+    <floor>
+        <room>
+            <right>46</right>
+            <down>41</down>
+            <description>Location 46(45)</description>
+            <name>Restricted Section</name>
+            <item>cloak</item>
+        </room>
+        <room>
+            <left>45</left>
+            <right>47</right>
+            <down>42</down>
+            <description>Location 47(46)</description>
+            <name>Study area</name>
+            <item>ring</item>
+        </room>
+        <room>
+            <left>46</left>
+            <right>48</right>
+            <description>Location 48(47)</description>
+            <name>Storage Room</name>
+            <item>mirror</item>
+        </room>
+        <room>
+            <left>47</left>
+            <right>49</right>
+            <description>Location 49(48)</description>
+            <name>Bathroom</name>
+            <item>sandclock</item>
+        </room>
+        <room>
+            <left>48</left>
+            <description>Location 50(49)</description>
+            <name>Cuthbert Binns's office</name>
+            <item>scissors</item>
+        </room>
+    </floor>
+    <floor>
+        <room>
+            <right>51</right>
+            <description>Location 51(50)</description>
+            <name>Prefects' bathroom</name>
+            <item>shoe</item>
+        </room>
+        <room>
+            <left>50</left>
+            <right>52</right>
+            <down>46</down>
+            <description>Location 52(51)</description>
+            <name>Art classroom</name>
+            <item>brush</item>
+        </room>
+        <room>
+            <left>51</left>
+            <description>Location 53(52)</description>
+            <name>Music classroom</name>
+            <item>music</item>
+        </room>
+    </floor>
+    <floor>
+        <room>
+            <right>54</right>
+            <description>Location 54(53)</description>
+            <name>Sixth Floor Corridor</name>
+            <item>skate</item>
+        </room>
+        <room>
+            <left>53</left>
+            <right>55</right>
+            <description>Location 55(54)</description>
+            <name>Right Wing</name>
+            <item>sloth</item>
+        </room>
+        <room>
+            <left>54</left>
+            <right>56</right>
+            <description>Location 56(55)</description>
+            <name>Boy's Lavatory</name>
+            <item>snowman</item>
+        </room>
+        <room>
+            <left>55</left>
+            <right>57</right>
+            <description>Location 57(56)</description>
+            <name>Disused Bathroom</name>
+            <item>sock</item>
+        </room>
+        <room>
+            <left>56</left>
+            <right>58</right>
+            <description>Location 58(57)</description>
+            <name>Study of Ancient Runes Classroom</name>
+            <item>spoon</item>
+        </room>
+        <room>
+            <left>57</left>
+            <right>59</right>
+            <description>Location 59(58)</description>
+            <name>Horace Slughorn's office</name>
+            <item>stone</item>
+        </room>
+        <room>
+            <left>58</left>
+            <down>51</down>
+            <description>Location 60(59)</description>
+            <name>Room of Rewards</name>
+            <item>wc</item>
+        </room>
+    </floor>
+    <floor>
+        <room>
+            <right>61</right>
+            <down>54</down>
+            <description>Location 61(60)</description>
+            <name>Ravenclaw Common Room</name>
+            <item>eagle</item>
+        </room>
+        <room>
+            <left>60</left>
+            <right>62</right>
+            <description>Location 62(61)</description>
+            <name>Room of Requirement</name>
+            <item>yoyo</item>
+        </room>
+        <room>
+            <left>61</left>
+            <right>63</right>
+            <down>55</down>
+            <description>Location 63(62)</description>
+            <name>Hall of Hexes</name>
+            <item>suitcase</item>
+        </room>
+        <room>
+            <left>62</left>
+            <right>64</right>
+            <description>Location 64(63)</description>
+            <name>Arithmancy classroom</name>
+            <item>tie</item>
+        </room>
+        <room>
+            <left>63</left>
+            <right>65</right>
+            <description>Location 65(64)</description>
+            <name>Fat Lady's Corridor</name>
+            <item>tomato</item>
+        </room>
+        <room>
+            <left>64</left>
+            <right>66</right>
+            <description>Location 66(65)</description>
+            <name>Gryffindor Common Room</name>
+            <item>lion</item>
+        </room>
+        <room>
+            <left>65</left>
+            <right>67</right>
+            <description>Location 67(66)</description>
+            <name>North Wing</name>
+            <item>trumpet</item>
+        </room>
+        <room>
+            <left>66</left>
+            <right>68</right>
+            <down>56</down>
+            <description>Location 68(67)</description>
+            <name>Disused Bathroom</name>
+            <item>umbrella</item>
+        </room>
+        <room>
+            <left>67</left>
+            <right>69</right>
+            <down>59</down>
+            <description>Location 69(68)</description>
+            <name>Divination Classroom</name>
+            <item>violin</item>
+        </room>
+        <room>
+            <left>68</left>
+            <description>Location 70(69)</description>
+            <name>Divination Professor's office</name>
+            <item>water</item>
+        </room>
+    </floor>
+</hogwarts>

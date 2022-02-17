@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Pablo Mateos García-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainMenuActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/logo" />
+
+    <Button
+        android:id="@+id/newGame_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/metalmania"
+        android:text="new game"
+        android:textColor="#871317"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/loadGame_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/metalmania"
+        android:text="load game"
+        android:textColor="#871317"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/help_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/metalmania"
+        android:text="help"
+        android:textColor="#871317"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/about_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/metalmania"
+        android:text="about"
+        android:textColor="#871317"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/exit_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/metalmania"
+        android:text="exit"
+        android:textColor="#871317"
+        android:textSize="35sp" />
+
+</LinearLayout>

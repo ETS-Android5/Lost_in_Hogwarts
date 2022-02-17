@@ -1,0 +1,10 @@
+<!--Pablo Mateos García-->
+
+<resources>
+    <string name="app_name">Adventure Game</string>
+    <string-array name="inventory_items">
+        <item name="wand">ic_wand</item>
+        <item name="sword">ic_sword</item>
+        <item name="void">ic_void</item>
+    </string-array>
+</resources>
