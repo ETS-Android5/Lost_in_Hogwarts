@@ -2,6 +2,10 @@
 
 Android text adventure game. The room/location information is stored in an XML file. This was one of the final assignments of the module COM502 - Internet and Mobile Application Development in Wrexham Glyndŵr University (United Kingdom).
 
+### About the game
+
+The user has to move around the castle collecting and crafting items. They can unlock new floors of the castle by completing the task of each level. The castle has 10 floors and 70 locations.
+
 ### Difficulties and how I solved them
 
 I think that the whole process of creating the game and structure was not difficult. However, it was a long process the fact of developing the whole diagram of rooms of the ‘castle’ and the connections between them. At first, I decided to do just a few floors but finally, I decided to do a bit of research and do the whole castle. It is just not very difficult to do because the code would work and do the same with fewer or more rooms.
