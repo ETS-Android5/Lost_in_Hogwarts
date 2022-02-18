@@ -1,6 +1,6 @@
 # Lost in Hogwarts - Adventure Game
 
-Android text adventure game. The room/location information is stored in an XML file. This was one of the final assignments of the module COM502 - Internet and Mobile Application Development in Wrexham Glyndŵr University (United Kingdom).
+Android (Java) text adventure game. The room/location information is stored in an XML file. This was one of the final assignments of the module COM502 - Internet and Mobile Application Development in Wrexham Glyndŵr University (United Kingdom).
 
 ### About the game
 
